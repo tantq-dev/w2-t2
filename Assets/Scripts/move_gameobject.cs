@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class move_gameobject : MonoBehaviour
 {
+
     public float MoveSpeed=5.0f;
     public float RotateSpeed = 2f;
     public List<Vector3> ListOfPoints = new List<Vector3>();
